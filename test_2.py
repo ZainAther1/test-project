@@ -1,4 +1,4 @@
-w = 10
+w = 20
 
 for i in range(1,w):
   print('2 *',i,'=',2*i)
